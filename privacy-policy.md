@@ -1,0 +1,37 @@
+**Privacy Policy for Mizo Audio Bible**
+
+**Effective Date:** 2024-07-27
+
+This Privacy Policy describes how "Mizo Audio Bible" (hereinafter referred to as the "app") collects, uses, and protects your information. Your use of the app constitutes your acceptance of this policy.
+
+**1. Information We Collect**
+
+*   **Locally Stored Audio Files (MP3 Files):** To enable you to play your personal audio files, the app requests storage access permission (`READ_MEDIA_AUDIO`). The app only accesses these files for playback purposes within the app. We do not upload, store, or share your local audio files on our servers. All processing of these files happens exclusively on your device.
+
+*   **Internet Access:** The app requires an internet connection to stream Bible audio content from our servers and to display advertisements.
+
+*   **Advertising Data (Google AdMob):** This app uses Google AdMob to display advertisements. AdMob may collect and use anonymized data from your device to provide personalized ads. This may include information such as your device ID and IP address. To learn more about how Google collects and uses data for advertising, please review Google's policy: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
+
+*   **Usage and Performance Data:** We may collect anonymous data about how you interact with the app (e.g., which features are most used) and crash reports. This information is collected to help us identify bugs, improve the app's performance, and enhance the user experience.
+
+**2. How We Use Your Information**
+
+The information collected is used solely for the following purposes:
+*   To provide the core functionality of the app, such as playing audio.
+*   To display advertisements to support the app.
+*   To analyze app usage and performance to make improvements.
+*   To ensure the stability and security of the app.
+
+**3. Data Security**
+
+We are committed to protecting your information. We take reasonable measures to secure your data, but please be aware that no method of transmission over the internet or electronic storage is 100% secure.
+
+**4. Changes to This Privacy Policy**
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in this section.
+
+**5. Contact Us**
+
+If you have any questions about this Privacy Policy, you can contact us at:
+
+**lallianpuia@gmail.com**
