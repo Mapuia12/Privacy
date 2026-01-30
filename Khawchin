@@ -1,0 +1,47 @@
+# Privacy Policy
+
+**Last Updated: January 30, 2026**
+
+Mapuia ("we," "our," or "us") operates the **Khawchin Thlirna** mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our app and the choices you have associated with that data.
+
+## 1. Information Collection and Use
+We collect several different types of information for various purposes to provide and improve our service to you.
+
+### Types of Data Collected
+
+#### Personal Data
+While using our application, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). This includes:
+* **User ID:** We use Firebase Authentication to identify users for crowdsourcing weather reports.
+* **Location Data:** We request permission to access your **Approximate Location** and **Precise Location**. We use this data to provide localized weather forecasts and to tag the location of weather reports you submit. This data is only accessed while the app is in use.
+
+#### Usage Data
+We may also collect information on how the app is accessed and used. This includes information such as your device's Internet Protocol address (e.g., IP address), device type, and app usage statistics.
+
+#### Cookies and Tracking Data (Advertising)
+We use **Google AdMob** to display advertisements. AdMob may use device identifiers (like Android Advertising ID) to personalize ads and analyze ad performance.
+
+## 2. Use of Data
+Khawchin Thlirna uses the collected data for various purposes:
+* To provide and maintain the service.
+* To allow you to participate in interactive features (Crowdsourced weather reporting).
+* To provide localized weather alerts via Firebase Cloud Messaging.
+* To monitor the usage of the application.
+* To provide advertisements.
+
+## 3. Third-Party Service Providers
+We employ third-party companies and services to facilitate our app:
+* **Google Firebase:** Used for authentication, database (Firestore), and push notifications. [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
+* **Google AdMob:** Used for displaying advertisements. [Google Privacy & Terms](https://policies.google.com/privacy)
+
+## 4. Data Security
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. We strive to use commercially acceptable means to protect your Personal Data.
+
+## 5. Children's Privacy
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+
+## 6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
+
+## 7. Contact Us
+If you have any questions about this Privacy Policy, please contact us:
+* By email: Lallianpuia@gmail.com
